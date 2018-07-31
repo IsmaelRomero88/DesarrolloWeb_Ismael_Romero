@@ -1,0 +1,19 @@
+body{
+	background:#000000;
+}
+#TituloPagina{
+	color: #02010a;
+} 
+#central{
+	background:#82c3a6 ;
+}
+#segunda{
+	background:#d5c75f ;
+	border: 1px;
+}
+#PiePagina{
+	background: #C6d5c5;
+}
+a{
+	color: #FFFFFF;
+}
